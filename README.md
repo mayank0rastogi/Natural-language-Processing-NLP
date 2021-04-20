@@ -1,3 +1,3 @@
 # Complete Roadmap To NLP
 
-<img src = "https://github.com/mayank0rastogi/Integrated-E-shopping-Application/blob/main/charts%20and%20graph/workflow.png">
+<img src = "https://github.com/mayank0rastogi/Natural-language-Processing-NLP-/blob/master/Roadmap%20to%20NLP.png">
