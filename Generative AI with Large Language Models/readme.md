@@ -1,1 +1,4 @@
-Generative AI with Large Language Models(LLM's)
+# Generative AI with Large Language Models(LLM's)
+
+In Generative AI with Large Language Models (LLMs), 
+you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.
