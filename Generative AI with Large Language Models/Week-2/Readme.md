@@ -1,6 +1,6 @@
 Week 2 Fine-tuning and evaluating large language models
 
-- Learning Objectives
+## Learning Objectives
   
 * Describe how fine-tuning with instructions using prompt datasets can improve performance on one or more tasks
 
