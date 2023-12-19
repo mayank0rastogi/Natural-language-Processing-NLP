@@ -1,0 +1,637 @@
+sentence,label
+Thank you so much for all of that!,True
+Sorry for the double tap and thank you so much for the quick response on this!,True
+The user will have to do this by doing the same steps you did when you provided login access.,True
+Thank you and [PERSON] for participating on a [NRP] session for support incident #[US_DRIVER_LICENSE]_NUMBER] regarding Escrow to [PERSON] sort function.,True
+I am so sorry for the problems but hopefully this will fix it for her.,True
+Thank you very much for your feedback and all the information provided!,True
+"Base on the screenshot ""Error Details 2"" that the Admin account has been associated as enable's enable account which is a wrong steps.",True
+"Moving to Solved because a) the customer's question was answered, and b) if the workarounds are important enough to them, they should bring it up with their CFDS who can help facilitate specific support as needed",True
+Please refer to this Microsoft article for more information on this topic: [URL],True
+"Also, step 6 is something the customer will need to do, since it is configuration on their DNS records.",False
+"If possible, can the impacted user provide us with the following:",True
+the engineer confirmed that you can leave these custom settings deactivated for the duration and you will no longer encounter the error.,True
+The issue [IN_PAN] in KA-[PHONE_NUMBER] is occurring in our environment for Odyssey Navigator 2022.0.7,True
+I would recommend including each option as a hyper link to a popup step SWT for for this use case.,True
+Can you please try to comment out the /dev/[PERSON] or /boot entry from /etc/fstab and verify if the system could boot up?,True
+Cause           : Underlying issues with PE (Prism Element) - PC (Prism Central) connectivity.,True
+I informed the user that the transaction has settled and that she should contact the receiving bank for assistance,True
+We provided Just in time access and the drag and drop while on debug mode works,True
+When I explained the client the reasoning he mentioned he would still want to have the 'Appearance' --> 'Balloon Scroll' --> 'Scroll to end position' working for him as it will allow him to setup the scroll position per his expectations.,True
+"First, I want to apologize to the customer for enabling the feature without coordination and for the inconvenience it caused.",True
+Could you guide me on how the impacted user profile can extend access?,False
+Thank you so much for unravelling this!!,True
+Thank you for everything!,False
+No dm-multipath devices found!,False
+I validated the Windows registry to confirm that the key used as a workaround in this [LOCATION] was not implemented.,False
+I provided the user with the tracking ID number so they can reach out to the external bank,True
+So I informed him that performing a hard reset would be the way to go in this scenario,True
+Thank you for taking my call [DATE_TIME] for the 'Error when trying to change Document security' ticket.,True
+Thank you for taking the time and reaching out to our Developer Portal Billing Support team.,True
+You implemented this recommendation for both component worksheets.,True
+"Resolution:
+The asterisk on worksheet name was creating issues.",False
+I have pasted the screen transition order in Step by Step.,True
+- Also recommended the workaround of logging out and then logging in again.,True
+Thank you and [PERSON] for participating on a screenshare for support incident #[US_DRIVER_LICENSE]_NUMBER] regarding auto assess fees script error.,True
+"Yes, providing the steps of [LOCATION] is a reliable solution to that error message.",True
+"In order for this to work the way I believe it will work, I will have run our Fee Update Procedure on those fees in your TEST environment to update the Collect Escrow flag and the checking account information.",True
+Explained to the client that it s a work around and we have to wait for their IT to re-instate IE mode on their computer,True
+"The error appears at any moment:
+- When she was about to open a new workbook
+-When she applied a filter
+-Trying to change the Hierarchy
+-When she was trying to save a change",True
+"""Solved"" means that a satisfactory resolution has been provided for the original issue because you confirmed the issue to be resolved.",True
+"RELEASE_CREATECHANGE_LOADED_LOADED_LOADED""(which should not in this case) which in turn is skipping all other workflows inside that guide due to which the z1D_Status field is not getting set when edit screen is loaded and menu is not returning expected statuses.",True
+Can you please provide approval for an IIS restart before the maintenance window for the migration?,False
+"I should have been more clear, the routing and account numbers I provided were the ones used on the payment, not the numbers the payment came from.",True
+"-after repairing fstab, there was severe filesystem corruption during boot.",True
+"""Restoring Prism Central from DR"" to track this issue.",True
+"After successful installation and after rebooting, the system displays the 
+following repeating error:",False
+"Final grade calculation setting is mapped for standard (District → [US_DRIVER_LICENSE] Pro Settings)
+*",True
+I have reached out to our team and requested immediate assistance in getting the ODS and ReportWorks issues further resolved.,True
+Thank you for taking my call on support incident #[US_DRIVER_LICENSE]_NUMBER] regarding script error when converting bond.,True
+"Sorry for the slow response here, but can you confirm if that error was received when using the Add Vendor Invoice Items action link (as opposed to the button)?",True
+"After trying the find a solution, our quickest way of getting back online was reverting to a previous backup.",True
+"Creating root device
+Mounting root filesystem
+mount: error 6 mounting ext3
+Switching to new root
+switchroot: mount failed: 22
+Kernel panic: Attempted to kill init",True
+Can you please help me with a screenshot or videograb of the error that you are getting while mapping the CNAME value on the DNS account?,True
+"One more clarification needed that we have added the registry key in the path ""HKEY_CURRENT_USER\Software\ABBYY\[US_DRIVER_LICENSE]\12.0\Controller\OfficeConverter""  with  PreprocessorOptions = 2",True
+Notified customer's billing representatives that backbilled charges can't be put on a separate invoice,True
+"+ For PC.2022.6.x, upgrade Prism Central to PC.2022.6.0.5 or above for a permanent fix.",True
+Thank you so much for the efforts being put into to get the things rolling 😊,True
+"These errors occurred after we made the following changes:
+1.",True
+You answered all my questions thank you!,True
+"""It appears the users manager found the issue with the business process they were using that was causing this error.",False
+Could you kindly have the impacted user provide login access as well?,False
+"We were able to resolve this by applying monitorWidgetOnUiChange, but the customer has performance concerns due to previous issues with WalkMe.",False
+"As a workaround, users are advised to use the SF add-in for the web version of Outlook, which worked as expected based on our testing.",True
+"Customer is trying to upgrade ZVML without internet access with the enabled DNS endpoints per our documentation:
+[URL]
+But validation fails.",True
+The failure you observed was not related to the student moving and I have made certain configuration changes across all 4 schools so that records can seamlessly move for both 22-23 and 23-24 forms which should resolve any further configuration issues.,True
+Lastly a similar symptom [PERSON] addresses the symptoms with a registry key.,True
+Thank you again for choosing Tableau Software during these difficult times!,True
+Can you please assist [PERSON] with manually activating a user on the database so they can login and change the key?,True
+I reached out to the billing expert who confirmed to me that the bill you created and closed with the adjustment will not make any disturbance in the reporting.,True
+I am happy to know that you were able to access the billing portal without any issues.,True
+I see now that that's happening if the student scored into two different achievement levels across test terms,True
+Thank you for following up my sincere apologies if we misunderstood your last message I was under the impression you were attempting to build SWT steps in the dropdown menu and not smart tip hover balloons.,False
+note: this case was received with our [US_DRIVER_LICENSE] priority label due to the severity details selected on case submission.,True
+Our end-users are having to add manual workarounds and additional steps to get the data they need,False
+"At your earliest convenience, please check if the following registry keys are existing",False
+Can you check what might be the reason behind these errors and let us know how to address them?,True
+The only reports I've ever seen that do that use the dynamic date shortcuts.,True
+"If I manually accepted an Efile envelope and the fees have been processed successfully by Chase Bank, how do I get the assessment and payment into the [PERSON] case?",False
+"The correct thing is to charge for 270 + 21 = 291
+Was charged for 270 + 191 = 461
+461 - 291 = 170 wrongly invoiced
+Wrong billed amount $ 338.30",True
+"I think we need clarification on ""When trying to enable the feature.""",False
+"Topic: [PHONE_NUMBER]_Facing issues with Excel and outlook [IN_PAN]
+Time: [DATE_TIME] [DATE_TIME] [LOCATION]",True
+"If there is something specific that our admin user can do to fix on our end, may we ask that you send step by step instructions with illustrations so that she can easily follow and resolve this.",False
+The procedure entry point SymFromAddr could not be located in the dynamic link library,True
+In order to link a WTN to an Invoice they must have the same vendor code.,True
+I wanted to reach out to let you know that your PMR 7 is now unlocked.,True
+Can this please be reviewed and determine what is causing this general system error to appear?,True
+"Zoom called
+advised to add a new location field not using the primary location field
+DIT is causing location to revert back.",True
+"Thank you a bunch for getting this answer, [PERSON]!",True
+"But it is worth mentioning that this error also pops up before and after the upgrade attempt, which may cause it to be not related.",True
+"2.)If issue still persists then use ""Load Python Script"" activity before the ""Run Python script ""  activity.",True
+So I told her to reverse the receipt and then enter a new receipt for the correct date.,True
+"Can you please provide the affected user access and the detailed specific steps to recreate this issue from who the affected user is and the steps and clicks that they are taking, including screenshots and links we need to take to recreate the issue reported so that we can review this further?",False
+"It is only when a moving violation with/without traffic school is charged with the insurance after the fact, that it seems to add an additional unwanted $10 amount.",True
+"Thank you again and wishing all the best,",True
+Thank you very much..!,True
+"In this case, after the restore failed with the above error, you need to perform the steps mentioned in the following link so that you can open the restored database as primary.",True
+Clear Problem Description: site disconnection after ZVM upgrad,True
+Thank you for the screen recording and the details!,True
++ Upgrade Prism Central to PC.2022.6.0.5 or above for a permanent fix,True
+Thank you again for the extra student examples you provided - extremely helpful!,True
+"Problem Description
+-------------------------------
+Default Virtual Switch Error-------------------------------
+Severity
+-------------------------------
+[US_DRIVER_LICENSE] - Critical",True
+Thank you for participating on a [NRP] session for support incident #[US_DRIVER_LICENSE]_NUMBER] regarding the Motion column number [IN_PAN] 5.[US_DRIVER_LICENSE]_NUMBER].,True
+sorry for the delay in getting back to you about the Grade Scale.,True
+Can you please provide us some information about what features you were trying to use when you got that error?,True
+Your guidance and expertise would be greatly appreciated in identifying and addressing the root cause of these errors.,False
+"Once enabled, you would just do a settings publish, and the issue should not reoccur after this.",False
+Walked her through running the disposition > Plea Report and creating a list in List Manager.,True
+", would you be so kind to check  if you also see the same issue when you set the action ""Apply bookmarks"" as a sheet action in the sheet Property s, or it's really only the [PERSON] bookmark that doesn t work?",True
+Once this has been done and your MySQL backups are successful you can follow the instructions linked below to carry out the restore.,True
+"Using the date that our license expires may have been an error on my part, because we need this resolved ASAP to be ready for this license renewal.",True
+"“Could you please specify, update from what version to what version exactly the update was done**initially**, when you saw the error at the first time?",True
+"By completing these actions, you'll be on track to successfully create the connector setup and resolve the current issue you're facing.",True
+Please be noted that with both Outlook and Excel the error is the same.,True
+After discussing the usecase further on our call we recommended using a switch to frame step into the top frame of the page and including a visual message for the customer to continue the flow in the event that they either encounter the error message or see the expected qoute page.,True
+This method will help you identify and address the specific records causing the issue.,True
+It might be that the pre[IN_PAN] patch for [DATE_TIME] [IN_PAN] Update for Windows 11 for [US_DRIVER_LICENSE]-based Systems ([US_DRIVER_LICENSE]) is not complete installed since the device have not yet rebooted.,True
+"From: Handa, [PERSON] (AM, [LOCATION])
+Sent: [DATE_TIME], [DATE_TIME]
+To: [URL]DRESS]Prabhu, [PERSON] (AM, IND) ; Verma, [LOCATION] (AM, IND) ; [PERSON], Arunpandian (CIB Tech, [LOCATION], [IN_PAN]) 
+Subject: RE: [EXTERNAL][PHONE_NUMBER]_Facing issues with Excel and outlook activities",True
+"_____
+Yes I understand how to correct the issue however why did it occur at all!",True
+"After discussing this issue, we decided to re-run her reports by Deposit Date rather than by Transaction Date (due to the fact that a reversal transaction was back date to [DATE_TIME], but was still deposited into [DATE_TIME] deposit.)",True
+"As another alternate option would you let us know if you run the attached batch file containing an ""extension settings"" policy based installation of your WalkMe extension does this allow the Extension to be installed without being removed?",True
+I’m so grateful for all of you thank you.,True
+"In order to help us better troubleshoot this behavior, please provide as much of the following information as possible:",False
+Please note I have [US_DRIVER_LICENSE] your case's severity level to level 2 “Urgent” until I have a better understanding of the impact on your business.,False
+Could you please confirm if Outlook is updated by your IT team and if the affected user is able to log in to Salesforce add-ins on the Outlook desktop app?,True
+Thank you for your email and for taking the time on call with me to go through the disablement process.,True
+"I created 'FeatureGroupCustUser/EnableStatementDelivery', which has a description of 'Online: Enable Statement Delivery Link' for this nav node.",True
+The below errors observed with outlook and excel:,True
+"Please provide me with the following details, and we can begin to review what may have caused the upgrade to fail.",True
+"Does a similar key to nMarkMediaAsNasToMaMoved need to be added for Exchange Server restores?
+2.",True
+"Both system and database come up fine now, without manual intervention required.",True
+"You can disable logging in Outlook directly from Outlook - Options - Advanced by unchecking the ""Enable troubleshooting logging (requires Outlook restart)"".",True
+"Can you please provide the affected user access and the detailed specific steps to recreate this issue from who the affected user is and steps and clicks that they are taking, including screenshots and links we need to take to recreate the issue reported so that we can review this further?",False
+Confirmed the extension to which the device needs to be activated i.e. [US_DRIVER_LICENSE].,True
+Thank you for taking the time to answer our questions,True
+"Added the below lines on CC in WebFormFields:
+details-button>(Button)
+proceed-[LOCATION])
+3.",True
+Thank you all so much.,True
+"I have some updates to share as, understandably, we are seeing an increasing number of cases related to this issue as the Windows 11 22H2 update is rolled out across organisations.",True
+Just to clarify - all of the issues I've reported happened at the same time for all users.,True
+"You can use the `Technical Escalation` macro and send this up for investigation, your same template is fine",True
+"Reason for Case Approved: Thank you for your assistance, you've answered my question",True
+"Apparently this only takes her to the default view - and she needs to be
+able to use her custom view which still does not work.",False
+Please let me know if it will work and we can re-connect over zoom to perform this activity.,False
+Thank you for using ClickPay to make your payment!,True
+and she was able to access the billing information.,True
+confirmed with user that issue is activating license and no other technical issue.,False
+Hope you're doing fine and thanks for your help!,True
+"That worked, but now it won't allow me to enable all the accounts under [PERSON] Pay>Bill Pay Manager.",True
+"confirmed it is setup correctly per [URL]
+went through this [PERSON] with what I could (no sf admin on call and [PERSON] was loading so not much for me to check): [URL]
+ 
+Call Detail / Cause / Summary (including Zoom recording and timestamps of when the issue reproduced / any other important section of the call):
+[URL] 
+Passcode: t.@qh8C6
+ 
+Editor: [EMAIL_ADDRESS]tension/Snippet: extension
+ 
+Steps to Reproduce: 
+Load the env on call and enter walkme_sf_vars in the console (custom var isn't in result)",True
+Can you test this on your end and confirm if this workaround will work for you?,True
+WalkMe widget issue during drag and dro,True
+"I've made one more settings update in attempt to correct this issue and would like for you to perform a settings publish to the PreProd environment, refresh the affected page, and test whether the Tooltip balloons begin to show as expected.",False
+Your understanding and patience while I implement this feature for your connector are greatly valued.,True
+"Should you get that error again, [LOCATION] has a few corrective actions to take.",True
+Thank you for providing all of these options!,True
+Release Order is issued successfully in eWarrants but fails integration to Odyssey with a error message of “Snap errors:,True
++ Confirmed that the DIMM post package repair is success on DIMM [US_DRIVER_LICENSE]ERSON] from IPMI after the host reboot.,True
+Re-did the same exact scenario in our production website and it worked successfully.,True
+Thanks to everyone for their technical support,True
+Please help us understand what exactly went wrong during this [PERSON] as it went to change the DB SERVER and DB SERVICE name.,True
+"Opening an assisted update ticket before an upgrade will allow us to review your environment for any potential or known issues as well, are you familiar with this process?",True
+"+ During the update, the link for eth0 flaps and eth1 now becomes the active interface leading to a network connectivity issue.",True
+Please help us with above information so that we can be on the same page and enable me to narrow down the issue.,True
+"_____
+Thank you very much for all of that.",True
+Would you also be able to provide a screenshot of the error you are getting so we can take a look at where/what is generating it?,False
+"`Error [IN_PAN] domain:`
+`Expected CNAME for ""[US_DRIVER_LICENSE]E].com"" to match ""[US_DRIVER_LICENSE].sendgrid.net"".",False
+"To avoid miscommunication, please open a separate ticket for the DRS issue.",False
+I will also attach a second debug log without the debug statements in case my changes are overwritten by other developers and debug statements are gone.,False
+Ensure that the email account you are trying to access is properly connected to the Outlook Desktop App.,True
+We fixed the problem and You successfully powered on the Z-VRAH.,True
+I looked through both devices and then pulled logs from EXPLT28 [DATE_TIME] or so after we got off the phone to see what changes happened after I approved the patches for install with your supervision while we were on the phone,True
+[PERSON] - How do I get the fees that were manually processed on an Efile envelope into [LOCATION]?,True
+"This suggests that the problem is specific to the ODBC driver for the Microsoft SQL Server connector, on the Qlik Data Gateway - Direct Access server.",True
+Could you please try publishing Settings to the affected environment to see if this helps?,True
+"Thanks for your time on the Zoom session with me and I am sharing our troubleshooting,",True
+"Lastly, to help narrow down the root cause of the issue so I can ensure the right team assists you here.",True
+Can you please provide a screenshot of the error as well as any additional context you feel would be helpful?,True
+I am going to go through the steps you provided [DATE_TIME] in trying to correctly close this bill.,True
+You will then be able to link the WTN to the Invoice.,False
+Please be reassured that the software's functionality won't be impacted by the hardware key error.,True
+Can you please provide the steps he took that caused the error?,False
+Our engineers deployed the fix they believed would help abate or resolve these transformation failures.,True
+We recommend not using the dynamic link saved in `thumbnail_url` for this kind of use case.,True
+"Summary:
+•	Initial Install of Production Update CA 21 failed twice prior to calling [PERSON].",True
+See [PERSON]: Update Center Signature Checking is Disabled,True
+"The caller completed the credit card transaction and got the processing screen, then they received a message """"Configuration Error, Please Contact Odyssey Administration.",True
+Can you please capture this issue with the WalkMe Assistant tool on the affected step?,False
+Once the alert clears and the VRA is operating it is safe to re-enable [DATE_TIME],True
+"Could you please perform a settings publish, to the affected environment, have the user(s) re-enable the Extension, refresh the page, and test whether they are able to navigate the environment without experiencing the error?",True
+You asked me to let you know if the issue happened again and to document what I was doing when it happened.,True
+"Report Parameters (Include date ranges):
+Sample data where issue is present:
+Error Message(s) Encountered (if applicable):
+Scope of Issue (Individual Student, Schools, District, etc.):
+Steps to reproduce the issue:
+Expected Results:
+Actual Results:
+State/Provincial Submission / Report Submission due date:
+Steps you have taken to resolve up this point (Troubleshooting Steps):
+Add Applicable Screenshots as Attachments belo",True
+"Once you have performed these steps, you will be in the same state as before the problem or upgrade, and hopefully the issue will be resolved.",True
+"As discussed, the CNAME and TXT can be pointed to the values and once the records the live, your portal will be ready to be accessed.",True
+I do hope that this will not cause any further issues but I would think this is all needed only for installation and nothing else afterward.,False
+Thank you for confirming that the end user is able to reverse the fees for the case.,True
+"So we continued on with connecting the DBs
+ 
+Reconnected both HA & DR successfully.",True
+"Once approved, we can now proceed with the [PERSON] access.",True
+Just wanted to inform you that I will be downgrading the severity of this ticket from Severity 3 to Severity 4 to more accurately reflect the priority.,True
+The error usually appears when the [US_DRIVER_LICENSE] 12 [US_DRIVER_LICENSE] is configured incorrectly or something is wrong with the settings of the [US_DRIVER_LICENSE] 12.,True
+"Based upon our investigation, we have determined that the information in the report should be updated, and we will update the record to show that the charge of BAIL JUMPING [DATE_TIME] is a felony.",True
++ Re-enabled MSP after that and could confirm it's now working.,True
+"[PERSON], Thanks again for your continued time on Zoom while working on this and case [US_DRIVER_LICENSE]_NUMBER].",True
+"+ Attempt the connection using Custom SQL, instead of drag and drop the table
+Here is the query that was sent just before the failure that we will use to connect.",True
+"- Verified final invoice delivery via Netsuite
+- Closed in Salesforce & DTH
+ !",True
+Thank you for your email and the update regarding the investigation into the Excel file locking issue.,True
+The first step is to make sure that the folder is accessible in Outlook and that the user has permissions to the inbox.,True
+"In order to validate the information that needs to be placed on the DNS zone file, could you please provide us with a screenshot of the DNS configuration on your end? .",False
+We have seen this cause issues in the past and it results in a database rollback situation.,True
+"Altering summary to relect the cause of the problem & downgrading
+severity",True
+I feel you might have missed out on previous responses that stated the solution which needs to be applied in the DNS host (the same procedure you followed to get the CNAME records verified.).,True
+This is a follow-up email regarding Case Number [US_DRIVER_LICENSE]_NUMBER] | Errors after upgrading to PC 2023.1.01.,True
+It is my understanding that this process used to work fine before but issues are encountered with indicating UI elements after an application update.,True
+- Yes the emails sent from Engage for Outlook should still show in the Engage Reports.,True
+We need help identifying the root cause and plan the next upgrade without causing any impact similar to this one.,True
+Reason for Case Approved: Thank you for the assistance,True
+Thank you for providing the steps-by-steps for the error received when posting a payment to the payment plan.,True
+I have received the 'Odyssey Script Error' ticket and this has already been reported to our Maintenance Development team via CRM ticket [US_DRIVER_LICENSE].,True
+Would it be possible to have the affected user run the following command on their end:,False
+"For further troubleshooting on this ticket, please help to answer the questions from my previous email:",True
+Can you investigate to see if we ran into any specific issues relating to org-level configuration of re-open/new ticket settings first?,True
+The user's account has been reopened and is verified!,True
+-create the [URL]i file with the [LOCATION] account after the fact.,True
+And re-adding the user from the dashboard will create an activation link and the user should access it to activate his Cove user account.,True
+"Save [US_DRIVER_LICENSE] folder from IIS server in another place to have the restore option;
+7.",True
+"Desktop
+Additional Info: tested with other customers w/ report module and other report types, returns similar error.",True
+"For more details on the above troubleshooting steps, reference **KB 7386**.",True
+I have recreated this project but I am now getting an error regarding the Org Chart Signature attribute.,True
+This mail is referring to your case [US_DRIVER_LICENSE]_NUMBER] where we previously updated you that Data Extensions basically plays role of only saving the data and not the status.,True
+"Confirmed, thank you, please close this out!",True
+"Use payment post date rather than transaction date
+If the above  list is correct, what does each item entail",False
+[PERSON] let me know that she was able to manually work around the EOY failures for [LOCATION] and several other districts that had already run their EOY process.,True
+"And the error message also mentioned ""... for this operation"", so please let us know what operation were you trying to do.",False
+"Ideally, the affected user will need to follow the steps listed below to grant me login access to their account:",True
+"Priority 2 (High) - System functionality is impacted, and no reasonable workaround is available.",True
+Resolution: Provided steps on how to access Billing in the portal.,True
+Fix the process to make sure that reimbursements via check move through the process without the customer having to call us and creating a ticket for processing,False
+Thank you for the valuable suggestion in the purview of making the product better and easy to use for the users.,True
+He said he drilled into the receipt and was unchecking the disbursement fee and received the error to uncheck auto post.,True
+"I have some [US_DRIVER_LICENSE] to resolve the issue for the affected user, [PERSON] ([EMAIL_ADDRESS]",True
+"From: [URL]DRESS]t: [DATE_TIME]
+To: [PERSON], [PERSON] (AM, [LOCATION]) 
+Cc: Prabhu, [PERSON] (AM, IND) ; [PERSON], Arunpandian (CIB Tech, [LOCATION], [IN_PAN]) ; Verma, [LOCATION] (AM, IND) 
+Subject: RE: [EXTERNAL][PHONE_NUMBER]_Facing issues with Excel and outlook activities",True
+Can you please clarify what the issue is that your Admin is seeing so that we can better assist them?,True
+"Issue:
+Resolution:
+>Informed her that each extension has 2 line appearance keys and there's one license per extension.",True
+Can You Please Provide/Confirm the Following Information for Further Troubleshooting:,False
+I wanted to bring to your attention an issue we encountered while conducting regression testing of the ABBYY Vantage Connector after Banner Health's recent upgrade of the Blue Prism DEV environment from version 6.10 to 7.2.,True
+Collected required information from DSM console with help of Venkatesh Babu & Anant.,True
+Thank you very much for your quick resolution of the incident.,True
+"Thank you for confirming, I did test this on the Engagement object but could not get it to work with two separate widgets with different fields available, as the data dictionary only allows ""enable field on widget"" on one report at a time.",True
+Thank you very much for the approval!,True
++ Used KBs 8130 and 8168 to resolve user login issues,True
+"Attached, you can find our preliminary guides on how to set up Expedia.",True
+"After upgrade, none of our existing Web Data Connections can connect, despite none of these configurations changing.",True
+"Troubleshooting Steps Attempted:
+Tried to find an appropriate registry key, but didn't find one.",False
+Kindly  share the outlook version and email with which you are facing this issue to check this further from our end.,True
+Confirmed customer attempted to update from FR26 to FR28 when breakage occurred,True
+"Thanks for your help [DATE_TIME], what a nightmare to do anything on these bills!",True
+"This documentation provides a step-by-step guide on how to perform the upgrade process, including prerequisites, installation steps, and post-upgrade checks.",True
+Thanks very much for the information and potential way forward to achieve our goal.,True
+"I asked if he could attempt to install 20.14.03 to see if that version resolved his issue, but as stated above, he had to continue working on a project and reverted back to 20.13.xx.",True
+"This is still a connectivity problem at this point, not a database configuration problem.",True
+"So I can better investigate this error, could you please provide me with an example or screenshot of this occurring?",True
+"I have rolled back the change, confirmed that desktop is working again, and am double checking with another internal team as to where the mistake in my update might be.",True
+This is the way the standard restore for Exchange Mailbox/items need to be done.,True
+"Definition for extension settings policy:
+""The ExtensionSettings policy controls multiple settings, including settings that are controlled by existing extension-related policies.",True
+[URL]rity-20-state-14.,True
+The order of operations is important to make sure everything is collected correctly and in a way that provides the most info and allows us to cross-reference the information during analysis.,True
+This is an expected error when you want to restore a backup from standby and open the database as primary.,True
+"Try the [IN_PAN] mentioned in [LOCATION] article below and let us know the outcome:-
+[URL]",True
+After we pressed reboot the server shutdown as usual but was stuck on the rotating windows logo  and the server kept boot looping.,True
+[EXTERNAL][PHONE_NUMBER]_Facing issues with Excel and outlook activities,True
+Happy to hear that your were able to update the connector user and resolve your second issue.,True
+"Kindly link a property, below are the steps to link a property.",False
+Step 5 details the verification steps required on your end before completing the DRP.,False
+"From there you can validate the fix for #2
+as well.",False
+I need to update the school numbers with the grade levels and transition grades to help.,True
+"As you agreed earlier, can you please open a new ticket to address the mds/filesystem issue?",True
+"From what I've confirmed the activity should not involve a configuration change or any downtime, and can be done through the UI",False
+Also please attach the Diagnostic Tool logs and a screenshot with the entire error.,True
+"But when she [IN_PAN] to 2021.12.18 which was older version before the upgrade, she is able to do it.",True
+"In this case, the user also followed the steps but still received the error again.",True
+"This would save a lot of time as opposed to the current ""click zoom
+in"", reposition, ""click zoom in again"" approach",True
+"Request you to configure the connector as mentioned in the following article (option 3):
+[URL]",True
+Once saved you are then able to manually drag the WM balloon to the desired location.,True
+"No other updates were [US_DRIVER_LICENSE] installed for this Maintenance release--nothing else to roll back
+11196  5492   [DATE_TIME] 10:49:19 ###      Skip setting registry",True
+Please have a look at the error messages after the normal boot messages!,True
+"See Operations center fails to load plugins or start after upgrade with 'Failed Loading plugin', due to plugin dependency on unsupported plugin.",True
+We can suggest using FlexiCapture UiPath Connector to configure the required workflow.,True
+"If the tooltip or popup is not displayed, you can use the ""Hover"" activity to simulate hovering over the information icon and then repeat steps 2 and 3.",True
+"Thank  you so much for your help - she's all set now
+
+[PERSON]",True
+Click the Link Property(s) button and the property will be added to your list.,True
+The user has requested for the root cause of the issue.,True
+"This will help your internal team to follow the stack trace as it will then show the correct line the error with the ""on"" value is triggered.",True
+The ClickPay agent informed him that his bank account information was updated in time and that the $192 would be withdrawn from his new checking account and that no fees would be charged.,True
+"So, I copy the widget code, insert it into the footer of the portal
+customization.",True
+"As the issue was resolved and You successfully powered on the Z-VRAH, I'm going to close the case.",True
+A list of steps the user takes to lead to the issue.,True
+So it concludes that in boot process it did not detect BOOT/ROOT device and server lands in dracut mode.,True
+)  Please note: File Server DNS entries will need to be re-entered once the file server is activated.,True
+Please clarify the issue: Are you saying that you updated the changes for this configuration in the org chart and now receive script errors?,False
+This is regarding your case [US_DRIVER_LICENSE]_NUMBER]- Error Outlook Integration.,True
+I tried to check internally about the broken image on the record when an email is sent from outlook as per our discussion in the meeting.,True
+Thank you all for your time and patience over the Zoom Session.,False
+Created New OCMS - New event initiated [US_DRIVER_LICENSE]ORT]NUMBER]-notification to DSM Support Remedy Server triggered by [PERSON],True
+Thank you for adding grade 12.,True
+"Could you please look into this and best organize a call with the user to
+clarify what may have gone wrong?",True
+1) A list of detailed steps taken so that we can replicate the issue.,True
+Please replace the deKey with your data extension's external key.,False
+"### Next Steps:
+Could you please reauthorise connector once and provide all necessary permissions and let me know how it goes?",True
+"We need your help expediting troubleshooting here, please answer the below questions to help us better understand the scope of the issue:",True
+"==
+[DATE_TIME]
+[DATE_TIME] eth1: link state down <<<< First interface down
+[DATE_TIME] eth1: disabled
+[DATE_TIME] br0-up: active interface is now eth0 <<<< Failover to eth0
+[DATE_TIME] eth0: link state down
+[DATE_TIME] eth0: disabled
+[DATE_TIME] br0-up: all interfaces disabled <<<< eth0 down as well triggering the outage.",True
+"Thank you for that [PERSON], I also got the same error code so I will let our department know of that information.",True
+Can you please provide some additional support to help us troubleshoot this ?,False
+Thank you still  for sending the screenshot of the registry keys!,True
+"I will now create a fix to do both:
+1.",True
+"approved, we can proceed with adding the billing portal permission.",True
+[NRP] on your certifications!,False
+Outlook 365 requires the user to already have the connection created on his machine or use Integration Service connections (Automation Cloud only).,True
+An example of the DNS alias and the ip addresses it is pointing to is shown below :,True
+Could you please validate all the pointers mentioned in the following KB article that can be of help here and do let us know the outcome.,True
+Can you please help me with the following so that I can narrow down the issue:     1.,True
+"This would hopefully simplify the delivery logic and fix what's causing it to break because in testing we found that things look right in delivery if a value is given manually, it just isn't transferring from the form to the submitted record for whatever reason.",False
+"Issue - Exchange Mailbox In-Place restore is failing
+ 
+- You are trying to perform Recover Messages from the Exchange Database backup
+ 
+- There are no issues creating the Recovery point
+ 
+-",True
+"After completing the above steps, kindly monitor the device patch status [US_DRIVER_LICENSE] if it transitions back to normal or shows either the same or a different error.",True
+"I
+apologises if I confused you and appreciate you clearing up where the fix
+actually stands.",True
+"Initial assistance was provided by guiding customer through admin console and configuration manager page, addressed customer query properly, customer acknowledge to close this case as resolved",True
+"This happened after I add ""Effective Order Value"" and ""SUM Value"" columns to the worksheet.",False
+As a note I will also be changing the severity of this case from sev 1 system failure to sev 2 major business impact.,True
+After the settings publish please test the smarttip dialog box again.,True
+when your user attempts to change the Move-in Date?,True
+I've entered support ticket CRM [US_DRIVER_LICENSE]_NUMBER] on your behalf for the script error that is occurring when working in List Manager.,True
+"Create a shortcut to allow a user to access multiple Enterprise Justice/Odyssey Navigator shortcuts (on a machine that has an existing Enterprise Justice (Odyssey) install:
+1.",False
+using the normal URL ([URL]SE].com)) after you add the following line to file                                         c:\windows\system32\drivers\etc\hosts on your client computer:,True
+Can we please schedule a zoom call with the affected user to troubleshoot the issue further?,True
+I am following up on the 'Odyssey Issue - Script Errors' ticket to see if uninstall/reinstall the application resolved the issue?,True
+Thanks so much for looking into this with Evolve for us.,True
+"- The ""Recover Point"" option should be used for standard Exchange Mailbox restore, it is only applicable to disaster recovery issue where index is corrupt or mailbox corruption and you can browse the data, or for legal purposes only.",True
+"As I discussed, you should not need to do this again and the report will run with the configuration from this point forward.",True
+Thank you for sharing your screen with me and walking me through your steps to reproduce and expectations listed below:,True
+To further investigate other issues reported in this ticket I would require the workflow with which this error occurs and the Diagnostic Tools report.,True
+follow the advice described above on using the registry key.,True
+I look forward to helping get this automated list back up and running as expected.,True
+"From: [URL]DRESS]t: [DATE_TIME]
+To: [PERSON], [PERSON] (AM, [LOCATION]) 
+Cc: Prabhu, [PERSON] (AM, IND) ; [PERSON], Arunpandian (CIB Tech, [LOCATION], [IN_PAN]) ; Verma, [LOCATION] (AM, IND) 
+Subject: RE: [EXTERNAL][PHONE_NUMBER]_Facing issues with Excel and outlook activities",True
+"To: [PERSON]: [PERSON] , [PERSON] , [PERSON]SON] , [PERSON] , Jade Small",True
+(Required uri cannot be accessed: [URL]) (Required uri cannot be accessed: [URL]) (Required uri cannot be accessed: [URL]) (Required uri cannot be accessed: [URL]E].amazonaws.com/)  ---> PreUpgradeValidations.,True
+I am writing to summarize the discussion we had regarding the issue you encountered while using UiPath with Microsoft Outlook and Excel.,True
+"The issue we are troubleshooting is:  
+-Upgrade Path
+The associated alerts/events/symptoms are:
+-We want to make sure that we follow the correct upgrade path from where we are and that our current configuration isn't an issue.",True
+"From: [URL]DRESS]t: [DATE_TIME]
+To: [PERSON], [PERSON] (AM, [LOCATION]) 
+Cc: Prabhu, [PERSON] (AM, IND) ; [PERSON], Arunpandian (CIB Tech, [LOCATION], [IN_PAN]) ; Verma, [LOCATION] (AM, IND) 
+Subject: RE: [EXTERNAL][PHONE_NUMBER]_Facing issues with Excel and outlook activities",True
+The Auto Push PIN setting allows the button to also do this and make it a one step process.,True
+We were able to find the correct URL and successfully integrate Workstation with Zendesk.,True
+The code that could have caused the issue:,True
+"[[URL]DATE_TIME] 08DB05D4B066CCFC]""
+-- 5.5.0 (unknown protocol-related status) Requested action not taken: mailbox unavailable ([US_DRIVER_LICENSE]).",True
+"but if you happen to run into any additional issues setting up the WalkMe Menu's Display Conditions, please feel free to reach back out as we'd be glad to further assist.",True
+The workaround for this was to remove the OUT parameter and modify the stored procedure like this:,True
+The repair was failing with error unable to access DB with sqladmin_cv account.,False
+"Approving Billing Event Error
+ 
+When user updates the status of the billing event by changing the status to ‘Approved’  The following error is shown",True
+MOM     Briefed the customer on the working function of the workflow automator and confirmed it works fine.,True
+She also mentioned that this is reproducible in TEST and when following the steps above able to reproduce every time.,False
+"I completely understand but unfortunately, this is the default behavior, currently, I'm working to get a workaround for your use case using workflow automation and will keep you posted.",True
+We would also like to organize a call with you and the impacted user to check and troubleshoot the issue.,True
+"Case Subject: Help Setting up Connect to outlook in external services
+Case Status:",False
+"Marking the case as business critical, customer wants this to be resolved as soon as possible because they want to print and send out report cards as soon as possible",True
+Resolved notes : [PERSON] needed assistance to create a new extension with [US_DRIVER_LICENSE] license and activate the their phone.,True
+This is the Error message we are getting on triggering restore.,True
+"Yes, putting a host into maintenance mode during a Move or DR event would cause issues with [PERSON] for sure.",True
+"Would you let us know if it is true  that in the existing configuration profile you are  confirming for us that the WalkMe extension and the existing extension are both included into the same configuration profile in gpo/intune both inside of ""extensioninstallforceliist"" policy?",True
+"Please take a look at this article (also the link I shared to Mass Deploy WM is a guide step by step), in case the extension was not mass deployed, could you please request the user to remove the WalkMe Extension and reinstall it by using the manual link I shared in previous emails?",True
+Could you please investigate and let us know what could be the issue that we're seeing these errors ?,True
+"invalidDocumentSwitch
+FROM [URL]",False
+"I have reviewed this with development and I would like you to try the following:1) Verify the application properties Compatibility Settings do NOT have ""Run this program as an administrator"" checked.",True
+For the primary issue regarding get Outlook mail message please help us with below details;,True
+"When making your request to have the Fee Update Procedure run, please provide the following information for each fee code affected:",True
+"+ We troubleshooted the URLs on the Web browser
++ We found that the parameter names between the source workbook and the target workbook were different.",True
+"AP needs to fill the invoices without the billing note > save > open the invoice again and add the billing note > submit the invoice for approval
+3) What is the disruption to the organizations work flow?",False
+"If student taking route 1, I would confirm the correct creds are being used or try route 2 for troubleshooting purposes.",True
+"Now, connection to billing servers is working from both web browser and PowerShell (tnc/telnet) without any issues, but Zerto Portal billing functionality is still failing.",True
+I am able to re-create the issue in our DW4 Odyssey test environment that has ODY 2023.0.5 on it.,True
+You wanted to setup the autopay thru your checking account instead of visa debi,True
+If this matches our issue how can we apply the second suggested workaround?,True
+"I found that enabling monitorWidgetOnUiChange resolved the issue, but the customer had concerns as they have run into performance issues in the past.",True
+"So it is most likely that what ""fixed"" the issue is the rolling reboot.",True
+"Once the alert clears and the VRA is operating it is safe to re-enable [DATE_TIME]
+10.",False
+Thank you for [IN_PAN] a Zoom troubleshooting call for [DATE_TIME] on [DATE_TIME].,True
+We will want to make sure that we have an example end user that currently can access BP so we can know that it was the adapter change that caused any issues if an error message pops up after making the change.,True
+"For the Prism Central crashing issue, shall I open a technical case, so one of our Technical Engineers can help you.",False
+"""
+Can you help me explain to her why these small requests are billable and the others are not?",True
+"[PERSON] to Reeltown High School
+[PERSON] to Dadeville High School
+Teresa [PERSON] to Reeltown High School
+[PERSON] to Reeltown High School
+[PERSON] to Reeltown High Schoo",True
+"Step 10, select the following for Include additional prompts when the report is run",True
+I just found two new variables that had to be set in custom properties.,False
+"According to the internal KB linked below, these feature flags should not be added at the same time (since they are different variations of the same functionality and will either be redundant, not work, or cause other issues).",True
+"""SQL Databases getting corrupted after [PERSON]"" to track this issue.",True
+We were able to resolve the issue by editing XML code of the workbook.,True
+"Priority 2: 
+•        The eFile website is accessible, but major functionality is not working (i.e. specific buttons do not work, etc.)",True
+"I don't have much confidence that it's the ddcprobe, seeing as how booting into
+7.3's rescue mode and running ddcprobe works just fine.",True
+"That would be the first time that it would work then I never managed to bring
+that device up when the system was running",True
+"However, for some reason, whenever there's a system update, it overrides our 'enabled
+ operations settings.'",True
+"Based on the video you sent, I don't think you were selecting the move button and creating a bill in the video.",True
+The client called in because she was advised by their [LOCATION] to correct the certification and submit it with their [DATE_TIME] HA,True
+and we think the below settings in the profile during the deployment could be causing the error.,True
+"add [NRP]"" value=""C:\Program",True
+"If you are using a workbook, is your issue due to a web client compatibility issue (unsupported feature or unsupported xml customization's)?",True
+"TruAmerica
+Vendor has a general liability Completed Operations Endorsement",True
+Vendor has a general liability Completed Operations Endorsement,False
+"So the client will see those 2 charges separate in their bank account, vs the full $24.60.",True
+Clicking on the enabled button cause an error to show.,False
+I am so glad to hear from you that you are okay now and you are back in the office.,True
+"Thank you again for your time on the phone today @DivyaVarshini M​ ,",True
+"Administrative details:
+Case severity: 3 - Mild, Non-critical Impact
+Business impact and urgency are customer won't upgrade to permanent ECE license and will search Zerto alternative",True
+We also discussed the need for your IT team to be involved in the process to ensure proper communication between UiPath and Outlook/MS.,True
+This will allow us to troubleshoot & address this concern faster.,True
+This would be a similar process to what we had you completed [DATE_TIME] in having Odyssey upload a document to their QA system so our development could retrieve and view the error that was occurring.,True
+"[]([URL])
+The provided workaround can be modified according to your needs to comply with your scenario.",True
+"On checking this with the next level of support, we found that this is an Outlook bug reported by Microsoft.",True
+Please repair the Microsoft Outlook for more detail please refer this document: [URL]ssues#solution,True
+The DNS portal for Odyssey RE (PSID: 6825) is reflecting incorrect service package values.,True
+"Unfortunately I cannot get the gateway process to be 
+enabled when I apply the ssl certificate we had used prior to the reinstall.",False
+"It is crucial that proper communication is established between UiPath and Outlook/MS, and we believe your IT team will be able to help in this regard.",True
+I'm pleased to hear that the OAuth issue has been successfully resolved and that everything is now working fine.,True
+"*2) Initial customer’s question and other known circumstances (terms / [IN_PAN], scenario):**
+When [IN_PAN] an Online licence (DVAP12410007287843521770, which was blocked after a new replacement software license was issued) the following error is thrown:
+ !",True
+I was able to login with this account before I did the upgrade.,True
+"The user was not receiving the EPM prompt and on further review the user was getting stuck in the ""Trusted software updater - Predefined Windows Update"" policy which we enabled.",True
+Applying the bookmark over sheet action works.,True
+This is just a proactive [US_DRIVER_LICENSE] to let you know that we have identified an issue with your **'cosmos1p'** connector and have opened this case to work on.,True
+Thank you for taking my call [DATE_TIME] for the 'Odyssey Report Printing' ticket.,True
+An Orchestrator IIS server restart will be scheduled to propagate the new setting.,True
+Thank you for the update and transaction examples.,True
+*Need a better understanding of what caused the issue that required us the reset the state to recover.,True
+"SuiteScriptError"",""name"":""INVALID_FLD_VALUE"",""message"":""You have entered an Invalid Field Value custom-fields/default-transaction-type/external-ref-num for the following field: custentity_default_transaction_type"",""stack"":[""Error\n    at [URL]tValue (suitescript/resources/[IN_PAN]/record/serverRecordService.js:443:5)\n    at [URL]enableFunction() (suitescript/resources/[IN_PAN]/record/proxy.js:115:24)\n    at [URL]p (/[US_DRIVER_LICENSE]/Bundle 84306/",True
+Once tested and confirmed that the solution works I will start the internal discussion to have it fixed in the release after 23.2.,True
+"_____
+Excellent and thorough laying out of options— thank you so much for your effort here.",True
+This resolved the Workbook Commands.,True
+Please have the end user work with their provider to restore service to the account.,False
+Thank you so much for rescheduling the loans.,True
+"Clear Problem Description: planned event for migrating ZCM, asking for healthcheck\monitorin",True
+I appreciate the well wishes and hope things continue going well for you also!,True
+"Customer has not done this before, but they do have admin priveleges so believe it should work for them.",True
+We are unable to test this issue in the test ODY 2023.0.5 in our DW4 test environment because the forms are not working in this version of Odyssey currently for us.,True
+"--> Please fix this connection issue, and perform check readiness, if it is working, try executing the restore & keep us posted on the status.",True
+"What do you need help with: Setup Billing and Invoices
+Request Category: Billing Settings",False
+"I've reached out to our Product Support engineer, and she mentioned that she doesn't see any glaring issues with enabling the setting in question.",True
+Please accept my emailed Zoom meeting invite to go over the case details.,True
+Could you please help us out with some additional details as we're going through the examples and triage notes on this case?,True
+"What does this key do, as we need to explain the root cause to State of Maine Management for ([DATE_TIME] delay for this restore?",True
+I will need to perform a rolling restart put this into effect and this won't have an impact on the end users experience.,True
+Please also mark the case as a severity 1 to ensure prompt action is taken.,True
+Perform System State Backup Again and shall proceed without errors.,True
+"When users want to escalate 2 incident tickets to problem tickets, Footprints returns an Unexpected Error :
+Unexpected error.",True
+"In case the machine, where the Licensing Server is installed, doesn't have internet connection, you can use **by e-mail from another computer** option during license key activation.",True
+"To expand upon my previous comment, I have requested explicit approval because our guidelines dictate that I am not authorized to make any modifications within the organization even if it is only setting a debug trace flag on a user and capturing logs, without first obtaining approval from you.",True
+Thank you for notifying LeasingDesk Screening regarding the accuracy and/or completeness of certain information that is contained in your credit report.,False
+Please note that this check box only enforces change tracking for only that workbook command.,False
+Thanks so much Vaishnavi!,True
+[PERSON] for your help and video.,True
+"As a workaround to avoid incurring additional charges, I would recommend the following steps:",False
+This makes complete sense and I'm glad a resolution is in place.,True
+I spoke with the user via MS teams; the user is validating the use case and will provide an update shortly,True
+I am passing this ticket onto our Techincal Support team to look into further and confirm if this occurred in relation to BP-11377.,False
+Looking to see if I can get guidance on what may cause an individual to experience the following error:,True
+All 3 of these things either would not give me any option to add/change at all-  then I would have the option to add/change but could not save - this would flip flop between the 2 problems.,True
+"Thanks for your time on the call, I would request you to take a help of DBA to run the commands on the DB server.",True
+Thank you for participating on a [NRP] session and going over C[MEDICAL_LICENSE]1 regarding needing help disbursing funds correctly.,True
+Thankyou for restoring our account.,True
+"If yes, then the registry key needs to be created here:
+_HKEY_USERS\S-1-5-20\SOFTWARE\ABBYY\[US_DRIVER_LICENSE]\12.0\DAForms _",True
+"As [PERSON] points out, by mixing my fixes in with this docs bug, I've created a
+confusing mess.",True
+"""A specified parameter was not correct: [URL]y""
+--> }",True
+"Please note and be aware though that there a lot of issue could come 
+up with this method and it could take a longer downtime trying to fix those issues.",True
+"Please review the articles related to the topic via this link:
+Capturing additional invoice fields ([URL])
+Special features of ABBYY FlexiLayout Studio for creating additional FlexiLayouts",True
+access as an affected user: Please ignore if System administrator is also an affected user.,True
+"If you upgrade this operations center, it may fail to startup due to the following plugins:",True
+"@Odichinma Ukah​ 
+cc @Leo Oudenhoven​ 
+ 
+The severity of this case is raised to [US_DRIVER_LICENSE].",False
+Thank you for reaching out to us about issue updating network address.,False
+"Our district recommends that all teachers change their visibility settings in Schoology to ""Hide overall grade"" and ""Hide grading period grades"" to avoid parent questions regarding discrepancies.",True
+Please assist with Activation of EDR for 7 User,True
+After that you need just to move the records from the table where you saved them to the main Vendors table of the external database.,True
+"Resolved notes : Lafonda requested assistance on how to set up extension to user, guide the customer on the admin console successfully set up license resolved",True
+let us know if any of the above suggestions result in the Switch to Frame step functioning as expected.,False
++ suggested proceeding with the upgrades after confirming that the inventory was successful.,True
+I suggest checking on the path between Mail Assure and the receiving server if there are devices that do this to prevent this from happening again.,True
+Business Impact: Operational Impact (Customer accidently changed System DATE and the system is now in suspended state.),True
+Please wait and monitor if the alerts are triggering for PE-PC connection warning.,True
+I appreciate you for providing more information about the use case of your request!,True
+"To avoid that behavoir, we suggest you to use a context-based custom property instead of static custom properties:",False
+"`
+`Expected CNAME for ""erl.[IN_PAN]com"" to match ""[URL]RIVER_LICENSE].sendgrid.net"".",False
+"Resolution:
+- Showed the partner how to navigate in the PSC - Billing
+- Account key updated
+- Billing tab added
+- Informed the partner about i",True
+"workflow-job
+See [PERSON]: Operations center fails to start after upgrade with 'Failed Loading plugin' due to plugin dependency on unsupported plugin",True
+Client Need/Goal: Client needs to have the late fee asked when advancing the date,False
+"I don't see a best practice for this particular issue, did you still need an answer to this or did you find a way to work around it?",False
+I'm glad we were able to walk through connecting to a SQL Server Database in PowerBI.,True
+Thank you for all of your hard work so far investigating the player issue with BlockWorks Online and the WalkMe editor.,True
